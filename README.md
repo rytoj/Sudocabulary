@@ -3,11 +3,11 @@ Want to combine your love for terminal with the love for learning English Vocabu
 
 Dont look further, just execute this command 
 
-    curl https://raw.githubusercontent.com/badarsh2/Sudocabulary/master/script.sh | bash
+    curl https://raw.githubusercontent.com/rytoj/Sudocabulary/master/script.sh | bash
 
 Preview
 ------------------
-![Sample Screenshot](https://raw.githubusercontent.com/badarsh2/Sudocabulary/master/sample.png)
+![Sample Screenshot](https://raw.githubusercontent.com/rytoj/Sudocabulary/master/sample.png)
 
 Coming soon!!
 ------------------
