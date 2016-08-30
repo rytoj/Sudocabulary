@@ -7,7 +7,7 @@ Dont look further, just execute this command
 
 Preview
 ------------------
-![Sample Screenshot](https://raw.githubusercontent.com/rytoj/Sudocabulary/master/sample.png)
+![Sample Screenshot](https://raw.githubusercontent.com/rytoj/Sudocabulary/master/sample2.png)
 
 Coming soon!!
 ------------------
