@@ -1,18 +1,6 @@
 # Sudocabulary
-Want to combine your love for terminal with the love for learning English Vocabulary? Want a smart way to memorize flash card words for exams like GRE?
-
-Dont look further, just execute this command 
-
-    curl https://raw.githubusercontent.com/rytoj/Sudocabulary/master/script.sh | bash
+Each time opening terminal learn about bash commands
 
 Preview
 ------------------
 ![Sample Screenshot](https://raw.githubusercontent.com/rytoj/Sudocabulary/master/sample2.png)
-
-Coming soon!!
-------------------
-Mnemonics for each word for easy remembering!
-
-Contributors
-----------
-[B Adarsh](https://github.com/badarsh2) <br/>
