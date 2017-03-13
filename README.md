@@ -7,7 +7,7 @@ Preview
 
 
 ##Install 
-cd; wget https://raw.githubusercontent.com/rytoj/Sudocabulary/master/.vocab
+`cd; wget https://raw.githubusercontent.com/rytoj/Sudocabulary/master/.vocab`
 
 And add to .bashrc:
 
