@@ -11,4 +11,4 @@ Preview
 
 And add to .bashrc:
 
-`echo -e "chmod +x \n ~./vocab" >> ~/.bashrc`
+`echo -e "~/.vocab >> ~/.bashrc`
